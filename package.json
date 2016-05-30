@@ -1,0 +1,15 @@
+{
+  "name": "Sid's-Syntax-Theme",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A very colorful syntax theme!",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/green1139/sids-syntax-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
